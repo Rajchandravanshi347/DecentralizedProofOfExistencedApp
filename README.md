@@ -1,4 +1,4 @@
-##### Deployed smartcontract address: CB2INSTOVITCBLGFEILYGQ5CE5ISRNUUQSAGO43Y2FIHFJVKY3DDKZZM
+##### Deployed smartcontract address: CAN4O55LJI5HDUOIUYVPCNN7FX6NHKQNPWMF7AMXAJZ4MHZNOUF4N2DN
 # Decentralized Proof of Existence dApp
 
 ![image.png](image.png)
